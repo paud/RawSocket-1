@@ -32,7 +32,7 @@ protocol은 <netinet/net.h>를 포함한 정의도니 IPPROTO_ICMP같은 형식�
 
 아래 그림과 같은 결과를 얻을 수 있습니다.
 
-[!Alt text](https://github.com/Funniest/RawSocket/blob/master/img/packet.png)
+![Alt text](https://github.com/Funniest/RawSocket/blob/master/img/packet.png)
 
 ### 소스코드
 소스코드는 Ubuntu 16 LTS환경에서 작성되어씁니다.
